@@ -1,0 +1,54 @@
+{
+  "next_product_index": 8,
+  "last_run_date": null,
+  "products": [
+    {
+      "id": "01_mamma_figlio",
+      "next_image_number": 3
+    },
+    {
+      "id": "02_controller_stand",
+      "next_image_number": 3
+    },
+    {
+      "id": "03_bradipo",
+      "next_image_number": 3
+    },
+    {
+      "id": "04_pietre_zen",
+      "next_image_number": 3
+    },
+    {
+      "id": "05_gatto",
+      "next_image_number": 3
+    },
+    {
+      "id": "06_vasi",
+      "next_image_number": 3
+    },
+    {
+      "id": "07_elefante",
+      "next_image_number": 3
+    },
+    {
+      "id": "08_volpe",
+      "next_image_number": 3
+    },
+    {
+      "id": "09_barca_zen",
+      "next_image_number": 2
+    },
+    {
+      "id": "10_kit_barca_zen",
+      "next_image_number": 2
+    },
+    {
+      "id": "11_astratta",
+      "next_image_number": 2
+    },
+    {
+      "id": "12_orso_vino",
+      "next_image_number": 6
+    }
+  ]
+}
