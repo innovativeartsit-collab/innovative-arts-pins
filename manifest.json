@@ -17,7 +17,9 @@
       "01.jpg",
       "02.jpg",
       "03.jpg"
-    ]
+    ],
+    "description": "This Mother and Child sculpture is handmade and 3D-printed in Italy - a modern home decor piece and unique gift idea for the mom in your life. Find it in our Etsy shop!",
+    "board_id": null
   },
   {
     "id": "02_controller_stand",
@@ -39,7 +41,9 @@
       "03.jpg",
       "04.jpg",
       "05.jpg"
-    ]
+    ],
+    "description": "Keep your setup tidy with this dual controller stand for PS5 and Xbox, handmade in Italy. The perfect gaming desk organizer and gamer gift - shop it on Etsy!",
+    "board_id": null
   },
   {
     "id": "03_bradipo",
@@ -60,7 +64,9 @@
       "02.jpg",
       "03.jpg",
       "04.jpg"
-    ]
+    ],
+    "description": "Bring a little zen home with this sloth incense holder, handmade in Italy. A unique gift idea and calming addition to any meditation corner - find it on our Etsy shop!",
+    "board_id": null
   },
   {
     "id": "04_pietre_zen",
@@ -86,7 +92,9 @@
       "07.jpg",
       "08.jpg",
       "09.jpg"
-    ]
+    ],
+    "description": "These zen stacked stones make a beautiful incense holder for your yoga or meditation space, handmade in Italy in your choice of color. Discover it on Etsy!",
+    "board_id": null
   },
   {
     "id": "05_gatto",
@@ -112,7 +120,9 @@
       "07.jpg",
       "08.jpg",
       "09.jpg"
-    ]
+    ],
+    "description": "This low-poly cat sculpture is handcrafted in Italy - modern geometric art and the perfect desk decor or cat lover gift. Shop the collection on Etsy!",
+    "board_id": null
   },
   {
     "id": "06_vasi",
@@ -139,7 +149,9 @@
       "08.jpg",
       "09.jpg",
       "10.jpg"
-    ]
+    ],
+    "description": "Add Italian design to your shelf with this modern black and white vase set, handmade and perfect for artificial flowers. A lovely housewarming gift - find it on Etsy!",
+    "board_id": null
   },
   {
     "id": "07_elefante",
@@ -163,7 +175,9 @@
       "05.jpg",
       "06.jpg",
       "07.jpg"
-    ]
+    ],
+    "description": "This navy blue low-poly elephant sculpture is handmade Italian art with a modern geometric style. A unique elephant gift for any home - shop it on Etsy!",
+    "board_id": null
   },
   {
     "id": "08_volpe",
@@ -188,7 +202,9 @@
       "06.jpg",
       "07.jpg",
       "08.jpg"
-    ]
+    ],
+    "description": "This handcrafted low-poly fox sculpture is made in Italy - the perfect fox lover gift and unique piece of desk decor. Discover it in our Etsy shop!",
+    "board_id": null
   },
   {
     "id": "09_barca_zen",
@@ -215,7 +231,9 @@
       "08.jpg",
       "09.jpg",
       "10.jpg"
-    ]
+    ],
+    "description": "This zen boat incense holder is handmade in Italy and available in many colors - a peaceful addition to any meditation space. Shop the collection on Etsy!",
+    "board_id": null
   },
   {
     "id": "10_kit_barca_zen",
@@ -242,7 +260,9 @@
       "08.jpg",
       "09.jpg",
       "10.jpg"
-    ]
+    ],
+    "description": "This set of two matching zen boat incense holders is handmade in Italy - a beautiful gift set for zen home decor lovers. Find it in our Etsy shop!",
+    "board_id": null
   },
   {
     "id": "11_astratta",
@@ -265,7 +285,9 @@
       "04.jpg",
       "05.jpg",
       "06.jpg"
-    ]
+    ],
+    "description": "This abstract stone-effect sculpture brings modern Italian art to your home, handmade and available in your choice of color. A great housewarming gift - shop on Etsy!",
+    "board_id": null
   },
   {
     "id": "12_orso_vino",
@@ -288,6 +310,8 @@
       "04.png",
       "05.png",
       "06.png"
-    ]
+    ],
+    "description": "This handmade bear wine bottle holder is 3D-printed in Italy and fully customizable in color - a fun gift for any wine lover. Find it in our Etsy shop!",
+    "board_id": null
   }
 ]
